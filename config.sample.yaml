@@ -1,0 +1,5 @@
+servername: "https://myserver.com"
+username: "@healthbot:myserver.com"
+password: "health"
+logroom: "!log_room_id:myserver.com"
+interval: 360 // In seconds
